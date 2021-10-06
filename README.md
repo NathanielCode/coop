@@ -6,7 +6,7 @@ Please see the assignment document shared with you for detailed instructions.
  1. You can use any programming language you like
  2. Download this README for editing
  3. Answer questions about the assignment in this README
- 4. Follow submission instructions below
+ 4. Follow submission instructions
 
 ## Questions
 Update this README file by answering the questions below:

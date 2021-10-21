@@ -19,7 +19,7 @@ We want to ensure that this test doens't take up too much of your time.
 Please share with us how much time it took you to complete.
 
 ### Assumptions made
-Use this section to tell us about any assumptions that you made when creating your solution.
+There is a vendor name called LONDON DRUGS with a trailing space afterwards. I'm going to assume that this is a mistake and that trailing spaces do make the values different.
 
 ### Shortcuts/Compromises made
 We would love to hear about how you would improve on your submission.

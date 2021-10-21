@@ -33,11 +33,10 @@ I ignored the rows where either category or subcategory wasn't provided. I'll as
 Please provide us with the necessary instruction to run your program(s) here:
 
 Task 1
-Just type in the shell: python sort_csv.py *input ur csv file here* 
-It should create a new sorted csv file or overwrite an existing one.
+Just type in the shell: python sort_csv.py local_path_to_csv_file
 
 Task 2
-type in the shell: python report_csv.py *input ur csv file here* 
+type in the shell: python report_csv.py local_path_to_csv_file 
 
 ### Packaging assignment for submission
 See assignment document shared with you for what to submit for your assignment and where.
